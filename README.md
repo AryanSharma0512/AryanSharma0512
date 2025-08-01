@@ -1,43 +1,38 @@
-# Hey there! 👋
+<h1 align="center">Aryan Sharma</h1>
 
-I'm **Aryan Sharma**, a sophomore at **Purdue University** majoring in **Agricultural Systems Management** (College of Agricultural and Biological Engineering).
-
-I enjoy building real-world systems — practical, full-stack tools that automate operations, optimize workflows, and simplify decision-making for people who need things *done*.
-
----
-
-### ⚒️ What I build
-- Lightweight admin panels for financial and operational management
-- Automation tools to simplify repetitive business tasks
-- Data-driven dashboards that non-tech users can actually use
-- Systems that scale without getting bloated
+<p align="center">
+  <b>Sophomore at Purdue University</b> • <i>ASM, College of ABE</i><br>
+  Full-stack systems. Smart automation. Real-world impact.
+</p>
 
 ---
 
-### 🧠 Technologies I work with
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+build+tools+for+real+people.;Automation+%E2%9A%9B+Stability+%F0%9F%AA%96+Scale+%F0%9F%94%8D;Simplifying+ops+%E2%9C%A8+one+project+at+a+time" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌱 On the side
-I’m working on:
-- Tools to help small businesses manage their operations better
-- A few personal platforms hosted on self-managed servers
-- Ways to make tech more accessible for non-tech users
+### 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,python,mysql,html,css,nodejs,linux" />
+</p>
 
 ---
 
-### 🚀 Fun fact
-I like clean interfaces, scalable backends, and making tech feel invisible.  
+### 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-> “Good software feels like magic when it disappears into the background.”
-
+### 🌐 Connect
+<p align="center">
+  <a href="https://aboutsharma.com" target="_blank">🌍 Website</a> •
+  <a href="mailto:sharm967@purdue.edu">📧 Email</a>
+</p>
